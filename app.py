@@ -41,9 +41,9 @@ st.image(image, use_column_width=True)
 
 # Page title
 st.markdown("""
-# Bioactivity Prediction App (dengue virus type-2)
+# Bioactivity Prediction App (dengue virus type-2 NS3 protein)
 
-This app allows you to predict the bioactivity towards inhibting the `dengue virus type-2` enzyme. 
+This app allows you to predict the bioactivity towards inhibting the `dengue virus type-2 NS3 protein` enzyme. 
 """)
 
 # Sidebar
